@@ -32,3 +32,31 @@ motorcycles.append('yamaha')
 motorcycles.append('suzuki')
 print(motorcycles)
 # here you start with an empty array, and by appending you can add new items in that empty array
+
+motorcycles = ['honda', 'yamaha', 'suzuki']
+motorcycles.insert(0, 'ducati')
+print(motorcycles)
+# you can insert an item into the list by choosing the position of where to insert it.
+
+motorcycles = ['honda', 'yamaha', 'suzuki']
+del motorcycles[0]
+print(motorcycles)
+# you can remove an item in a list using the 'del' mehtod. This method is used to delete a specified item in an array.
+
+motorcycles = ['honda', 'yamaha', 'suzuki']
+popped_motorcycle = motorcycles.pop()
+print(popped_motorcycle)
+last_owned = motorcycles.pop(0)
+print(f" The last motorcycle I owned was a {last_owned.title()}.")
+# the 'pop' method is used to remove an item from an array but still have it saved so that it can be used in the future
+
+motorcycles = ['honda', 'yamaha', 'suzuki']
+motorcycles.remove('yamaha')
+print(motorcycles)
+
+too_expensive = 'honda'
+motorcycles.remove(too_expensive)
+print(motorcycles)
+print(f"\nA {too_expensive.title()} is too expensive for me." )
+# the 'remove' method is used when removing an item from a list using the name. This is useful when you dont know the position of an item in an array
+# you can assign a variable too the item that you remove
