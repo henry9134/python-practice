@@ -27,3 +27,11 @@ favorite_language
 favorite_language.rstrip()
 favorite_language
 #  the rstrip() method removes whitespace from the right side of a string.
+
+nostarch_url = 'http://www.nostarch.com'
+nostarch_url.removeprefix('http://')
+print(nostarch_url)
+
+simplle_url = nostarch_url.removeprefix('http://')
+print(simplle_url)
+#  removeprefix() is used to remove certain prefix from the string
