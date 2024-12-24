@@ -26,3 +26,43 @@ print(cars)
 cars = ['bmw', 'audi', 'toyota', 'honda']
 print(len(cars))
 # the 'len' method will count the number of items in a list.
+
+magicians = ['alice', 'david', 'carolina']
+for magician in magicians:
+    print(magician)
+# the 'for' loop will print each item in the list
+
+magicians = ['alice', 'david', 'carolina']
+magician in magicians: print(magician)
+# the 'in' operator will check if a value is in a list
+
+magicians = ['alice', 'david', 'carolina']
+magician in magicians: print(magician)
+# the 'not in' operator will check if a value is not in a list
+
+magicians = ['alice', 'david', 'carolina']
+for magician in magicians:
+    print(magician.title() + ", that was a great trick!")
+    print("I can't wait to see your next trick, " + magician.title() + ".\n")
+# the 'for' loop will print each item in the list
+
+print("Thank you, everyone. That was a great magic show!")
+# the 'for' loop will print each item in the list
+
+magicians = ['alice', 'david', 'carolina']
+for magician in magicians:
+    print(magician.title() + ", that was a great trick!")
+    print("I can't wait to see your next trick, " + magician.title() + ".\n")
+# the 'for' loop will print each item in the list
+
+print("Thank you, everyone. That was a great magic show!")
+# the 'for' loop will print each item in the list
+
+magicians = ['alice', 'david', 'carolina']
+for magician in magicians:
+    print(magician.title() + ", that was a great trick!")
+    print("I can 't wait to see your next trick, " + magician.title() + ".\n")
+# the 'for' loop will print each item in the list
+
+    print("Thank you, everyone. That was a great magic show!"
+# the 'for' loop will print each item in the list
