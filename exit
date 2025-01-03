@@ -1,0 +1,59 @@
+[33mcommit f1221f84e96514ebd8559440117ca9b72ca6e7d4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Henry Santiago <hjsantiago13@gmail.com>
+Date:   Tue Dec 24 20:57:35 2024 +0900
+
+    python practice
+
+[33mcommit 16d4e1c3520906692b7968b6fa7044458baefd60[m
+Author: Henry Santiago <hjsantiago13@gmail.com>
+Date:   Mon Dec 16 15:25:32 2024 +0900
+
+    Added file2
+
+[33mcommit 09183e53fe59e1165c9ecc62806d58255f6310f3[m
+Author: Henry Santiago <hjsantiago13@gmail.com>
+Date:   Mon Dec 16 15:25:32 2024 +0900
+
+    Added file1
+
+[33mcommit 24c59bf3c078d50b38b336ea7fbb16b826ab8ded[m
+Author: Henry Santiago <hjsantiago13@gmail.com>
+Date:   Mon Dec 16 15:21:38 2024 +0900
+
+    list coninuation and organizing lists
+
+[33mcommit 5bca74beeaf0020423005fc2ff1a2b1b2b54f9fc[m
+Author: Henry Santiago <hjsantiago13@gmail.com>
+Date:   Mon Dec 16 13:34:15 2024 +0900
+
+    testing sshkey
+
+[33mcommit b749c9a0a7b7ec10e1fab246064ab03e141e5ae2[m
+Author: Henry Santiago <hjsantiago13@gmail.com>
+Date:   Mon Dec 16 13:23:51 2024 +0900
+
+    lists in python
+
+[33mcommit 973b7dd525785e028296bae34bfd70fb782abbe5[m
+Author: Henry Santiago <hjsantiago13@gmail.com>
+Date:   Mon Dec 16 12:59:24 2024 +0900
+
+    python: apostrophes and integers
+
+[33mcommit 2b9977c79f2abe630b664fdea77b690e59656341[m
+Author: Henry Santiago <hjsantiago13@gmail.com>
+Date:   Mon Dec 16 12:20:01 2024 +0900
+
+    Remove .gitignore to track all files again
+
+[33mcommit 8e0b6e5a71551bf207229b758d04fadad4008da3[m
+Author: Henry Santiago <hjsantiago13@gmail.com>
+Date:   Mon Dec 16 12:00:59 2024 +0900
+
+    Add .gitignore to exclude unnecessary directories
+
+[33mcommit f23072c928abbf7dc7a6b7ce57e08f416179c482[m
+Author: Henry Santiago <hjsantiago13@gmail.com>
+Date:   Mon Dec 16 11:59:00 2024 +0900
+
+    Add script.py
